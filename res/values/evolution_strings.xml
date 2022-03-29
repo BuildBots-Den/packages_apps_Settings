@@ -533,6 +533,8 @@
     <string name="spoof_storage_encryption_status_title">Use storage encryption spoofing</string>
     <string name="spoof_storage_encryption_status_summary">Spoof storage encryption status to encrypted</string>
 
+    <string name="usercard_summary">Current active user, tap for more information</string>
+
     <!-- Face Unlock -->
     <string name="security_settings_face_unlock_redo_face_scan_summary">Remove existing face scan and create a new scan</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Redo face scan</string>
